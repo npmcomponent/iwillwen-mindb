@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [iwillwen/mindb](http://github.com/iwillwen/mindb). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/iwillwen-mindb`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ![MinDB](http://iwillwen.u.qiniudn.com/min/mindb_logo.png?123)**Database on JavaScript**
 
 Storing and structuring your application data on JavaScript.  
